@@ -7,12 +7,12 @@
 
 'use strict';
 //Returns all the urls of the web service
-const baseUrlMain = 'https://qaizfire.com/api/'; //Prod URL
+const baseUrlMain = ''; //Prod URL
 // const baseUrlMain = 'https://sanitizit.qaizhips.com/api/';
 const baseUrlVersion = 'v2/';
 const baseUrl = baseUrlMain + baseUrlVersion;
 
-const HOST_NAME =  'qaizfire.com';
+const HOST_NAME =  '';
 const PROTOCAL = 'https://';
 const PATH = '/api';
 
