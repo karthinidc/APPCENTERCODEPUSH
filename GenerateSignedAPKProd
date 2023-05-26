@@ -1,0 +1,22 @@
+#!/bin/bash
+
+
+############### PRODUCTION RELEASE BUILD --- "com.InnovaZones.TreeIZHips" ###############
+cd android && ./gradlew assembleRelease
+# cd android && ./gradlew bundleRelease
+
+
+open $PWD/app/build/outputs/apk/release
+
+
+echo                                                                                
+echo                                                                                
+echo                                                                                
+echo "            /**********************************************************/"
+echo "                    Install app-release.apk on android device           "
+echo "                                        OR                              "
+echo "                                publish to play store                   "
+echo "            /**********************************************************/"
+echo                                                                                
+echo                                                                                
+echo                                                                                
