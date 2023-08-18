@@ -22,7 +22,7 @@ module.exports = {
       DEVELOPMENT: 'HkrDuFSa1aWw7iNQVp1YoffVMHDYnVnAmKNA1',
     },
     IOS: {
-      DEVELOPMENT: 'mRtadAL5BeEDW90-PXgHOcn4x8EwqEubofyOK',
+      DEVELOPMENT: '2bA33bIiMcUlmw4eSKlUiOUiOntS9D0KLF1pF',
     },
     PRODUCTION_UPDATE_CHECK_TIMEOUT :12*1,  // hours-day
     DEVELOPMENT_UPDATE_CHECK_TIMEOUT : 0.5*1,  // hours-day  

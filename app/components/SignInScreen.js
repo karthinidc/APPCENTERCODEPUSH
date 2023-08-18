@@ -329,7 +329,7 @@ class SignInScreen extends Component {
                   marginTop: deviceHeight * (1 / 20),
                   fontWeight: 'bold',
                 }}>
-                Welcome to Fire Department App - CODE PUSH TESTING
+                Welcome to Fire Department
               </Text>
 
               <Text
